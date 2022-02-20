@@ -2,11 +2,11 @@
     "homepage": "https://github.com/adamrodger/gcloud-ctx",
     "description": "gcloud configurations manager",
     "license": "MIT",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adamrodger/gcloud-ctx/releases/download/v0.5.0/gctx-x86_64-pc-windows-msvc.zip",
-            "hash": "1601d4d0c5516622c6fba97869f8573820609f4ca582155b0a82e4e4e453bd4c"
+            "url": "https://github.com/adamrodger/gcloud-ctx/releases/download/v0.6.0/gctx-x86_64-pc-windows-msvc.zip",
+            "hash": "c3ae08c98e902acc5194c3f2f3efd7c889e36f7c6abb290fed302387883a4188"
         }
     },
     "bin": "gctx.exe",
